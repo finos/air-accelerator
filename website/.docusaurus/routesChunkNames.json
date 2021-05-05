@@ -1,0 +1,26 @@
+{
+  "/-deb": {
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
+  },
+  "/docs-870": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
+  },
+  "/docs/development-infrastructure/code-validation/whitesource-88f": {
+    "component": "17896441",
+    "content": "ad24f609"
+  },
+  "/docs/development-infrastructure/continuous-integration/csharp-84c": {
+    "component": "17896441",
+    "content": "39360734"
+  },
+  "/docs/team-811": {
+    "component": "17896441",
+    "content": "dcf1d6e7"
+  },
+  "/docs/what-is-odp-7e1": {
+    "component": "17896441",
+    "content": "cbde1cd6"
+  }
+}
