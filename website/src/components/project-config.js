@@ -2,18 +2,24 @@ import React from 'react';
 
 export const projects = [
     {
-        "name": "FDC3",
-        "imageUrl": "https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/fdc3.svg",
-        "url": "https://fdc3.org"
+        title: <></>,
+        imageUrl: '/img/intro/AIR_Icon.png',
+        description: (
+            <></>
+        ),
     },
     {
-        "name": "Legend",
-        "imageUrl": "https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/legend.svg",
-        "url": "https://legend.finos.org"
+        title: <></>,
+        imageUrl: '/img/intro/AIR_Icon.png',
+        description: (
+            <></>
+        ),
     },
     {
-        "name": "Plexus Interop",
-        "imageUrl": "https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/plexus-interop.svg",
-        "url": "https://finos-plexus.github.io/plexus-interop"
+        title: <></>,
+        imageUrl: '/img/intro/AIR_Icon.png',
+        description: (
+            <></>
+        ),
     }
 ];
