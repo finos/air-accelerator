@@ -17,6 +17,9 @@
   --ifm-font-color-base: #1C1E21;
   --ifm-heading-color: #19B6CC;
   --ifm-footer-background-color: #056E90;
+  --ifm-footer-title-color: #ffffff;
+  --ifm-footer-color: #ffffff;
+  --ifm-footer-link-color: #ffffff;
   --ifm-code-font-size: 95%;
 }
 
