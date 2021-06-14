@@ -24,7 +24,7 @@ module.exports = {
       items: [
         {to: 'docs/what-is-odp', label: 'Docs', position: 'right'},
         {
-          href: 'https://github.com/finos/software-project-blueprint',
+          href: 'https://github.com/finos/open-regtech/',
           label: 'GitHub',
           position: 'right',
         }
