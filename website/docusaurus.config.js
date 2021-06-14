@@ -16,7 +16,7 @@ module.exports = {
 
   themeConfig: {
     navbar: {
-      title: 'Software Project Blueprint',
+      title: 'Alliance for Innovative Regulation',
       logo: {
         alt: 'FINOS Logo',
         src: 'img/favicon/favicon-finos.ico',
