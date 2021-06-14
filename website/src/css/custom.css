@@ -31,7 +31,8 @@
 }
 
 .hero.hero--primary {
-  background-color: #00b5e2;
+  background-color: #056E90;
+  background-image: url(/img/air-background-network.jpg);  
   background-repeat: no-repeat;
   background-size: cover;
 }
