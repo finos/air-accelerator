@@ -39,7 +39,6 @@ module.exports = {
         src: 'img/favicon/favicon-finos.ico',
         href: 'https://finos.org'
       },
-      style: 'dark',
       links: [
         {
           title: 'FINOS Initiatives',

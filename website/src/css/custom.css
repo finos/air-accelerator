@@ -16,6 +16,7 @@
   --ifm-color-primary-lightest: #00aef8;
   --ifm-font-color-base: #1C1E21;
   --ifm-heading-color: #19B6CC;
+  --ifm-footer-background-color: #056E90;
   --ifm-code-font-size: 95%;
 }
 
@@ -28,10 +29,8 @@
 
 .hero.hero--primary {
   background-color: #00b5e2;
-/*  background-image: url('/img/odp-background1-red.png'); /* CHANGE THIS TO BACKGROUND LOGO PNG - THIS IS A SEMI-TRANSPARENT DOUBLE RENDERING OF THE LOGO ICON */
   background-repeat: no-repeat;
   background-size: cover;
-
 }
 
 .button.button--secondary {
