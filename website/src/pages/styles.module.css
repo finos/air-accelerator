@@ -60,12 +60,14 @@
   background-size: cover;
 }
 
-.members {
-  padding: 74px 0;
-  background-image: linear-gradient(to bottom, #A3D7D4, #19B6CC);
-  background-color: #19B6CC;
+.membersBackground {
+  background-image: linear-gradient(to bottom, rgba(163,215,212,0.2), rgba(25,182,204,0.2));
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.members {
+  padding: 74px 0;
 }
 
 .projects {

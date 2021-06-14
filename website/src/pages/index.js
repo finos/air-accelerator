@@ -51,18 +51,20 @@ function Home() {
           </section>
         )}
         {vendors && vendors.length && (
-          <section className={styles.members}>
-            <div className="container">
-              <div className="row row--center">
-                <h2>Community Participants</h2>
+          <div className={styles.membersBackground}>
+            <section className={styles.members}>
+              <div className="container">
+                <div className="row row--center">
+                  <h2>Community Participants</h2>
+                </div>
+                <div className="row">
+                  {vendors.map((props, idx) => (
+                    <Vendor key={idx} {...props} />
+                  ))}
+                </div>
               </div>
-              <div className="row">
-                {vendors.map((props, idx) => (
-                  <Vendor key={idx} {...props} />
-                ))}
-              </div>
-            </div>
-          </section>
+            </section>
+          </div>
         )}
         {projects && projects.length && (
           <section className={styles.projects}>
