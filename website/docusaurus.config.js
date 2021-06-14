@@ -31,7 +31,7 @@ module.exports = {
       ],
     },
     footer: {
-      copyright: `Copyright © 2020 - Software Project Blueprint - FINOS - The Fintech Open Source Foundation`,
+      copyright: `Copyright © 2021 - AIR - FINOS - The Fintech Open Source Foundation`,
       logo: {
         alt: 'FINOS Logo',
         src: 'img/favicon/favicon-finos.ico',
