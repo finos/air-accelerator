@@ -60,13 +60,10 @@
   background-size: cover;
 }
 
-.membersBackground {
+.members {
   background-image: linear-gradient(to bottom, rgba(163,215,212,0.2), rgba(25,182,204,0.2));
   background-repeat: no-repeat;
   background-size: cover;
-}
-
-.members {
   padding: 74px 0;
 }
 
