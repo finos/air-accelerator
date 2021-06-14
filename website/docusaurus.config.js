@@ -1,7 +1,7 @@
 // Docs at https://v2.docusaurus.io/docs/configuration
 module.exports = {
-  title: 'Software Project Blueprint',
-  tagline: 'Delivering Docusaurus microsites for the Fintech Open Source Foundation',
+  title: 'Alliance for Innovation Regulation',
+  tagline: "AIR is a global non-profit that advances a fair financial system, by promoting the use of 'responsible technology' to help consumers and small businesses build financial health.", 
   url: 'https://blueprint.finos.org',
   baseUrl: '/',
   favicon: 'img/favicon/favicon-finos.ico',
@@ -16,9 +16,9 @@ module.exports = {
 
   themeConfig: {
     navbar: {
-      title: 'Alliance for Innovative Regulation',
+      title: 'Alliance for Innovation Regulation',
       logo: {
-        alt: 'FINOS Logo',
+        alt: 'AIR Logo',
         src: 'img/favicon/favicon-air.ico',
       },
       items: [
