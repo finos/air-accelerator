@@ -2,15 +2,24 @@ import React from 'react';
 
 export const vendors = [
     {
-        imageUrl: 'img/vendors/morgan-stanley-800.png',
-        name: 'Morgan Stanley'
+        title: <></>,
+        imageUrl: '/img/intro/AIR_Icon.png',
+        description: (
+            <></>
+        ),
     },
     {
-        imageUrl: 'img/vendors/github-800.png',
-        name: 'GitHub'
+        title: <></>,
+        imageUrl: '/img/intro/AIR_Icon.png',
+        description: (
+            <></>
+        ),
     },
     {
-        imageUrl: 'img/vendors/red-hat-800.png',
-        name: 'Red Hat'
+        title: <></>,
+        imageUrl: '/img/intro/AIR_Icon.png',
+        description: (
+            <></>
+        ),
     }
 ];

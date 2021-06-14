@@ -3,16 +3,17 @@ import classnames from 'classnames';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from '../pages/styles.module.css';
 
-export default function Vendor({imageUrl, name}) {
+export default function Vendor({imageUrl, title, description}) {
     const imgUrl = useBaseUrl(imageUrl);
     return (
-        <div className={classnames('text--center col col--3', styles.feature)}>
+        <div className={classnames('text--center col col--4', styles.feature)}>
         {imgUrl && (
-            <div className="text--center">
-            <img className={styles.memberImage} src={imgUrl} alt={name} />
+            <div>
+            <img className={styles.featureImage} src={imgUrl} alt={title} />
             </div>
         )}
-        
+        <h3>{title}</h3>
+        <p>{description}</p>
         </div>
     );
 }
