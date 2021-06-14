@@ -19,7 +19,7 @@ module.exports = {
       title: 'Alliance for Innovative Regulation',
       logo: {
         alt: 'FINOS Logo',
-        src: 'img/favicon/favicon-finos.ico',
+        src: 'img/favicon/favicon-air.ico',
       },
       items: [
         {to: 'docs/what-is-odp', label: 'Docs', position: 'right'},
