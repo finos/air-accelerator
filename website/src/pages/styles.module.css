@@ -62,7 +62,8 @@
 
 .members {
   padding: 74px 0;
-  background-color: #cacccc;
+  background-image: linear-gradient(to bottom, #A3D7D4, #19B6CC);
+  background-color: #19B6CC;
   background-repeat: no-repeat;
   background-size: cover;
 }
