@@ -37,6 +37,10 @@
   background-size: cover;
 }
 
+.hero__subtitle, .row h2 {
+  margin-bottom: 30px;
+}
+
 .button.button--secondary {
   color: white;
 }

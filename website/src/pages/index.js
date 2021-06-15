@@ -24,7 +24,7 @@ function Home() {
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 style={{visibility: 'hidden'}} className="hero__title">{siteConfig.title}</h1>
-          <img style={{width: '100px'}} src={useBaseUrl('https://github.com/finos/branding/blob/master/finos-logos/icon/FINOS_Icon_White.png?raw=true')}/>
+          <img style={{width: '50%'}} src={useBaseUrl('/img/air-logo-reverse-rbg.png')}/>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
