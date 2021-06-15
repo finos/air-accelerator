@@ -6,7 +6,7 @@ import styles from '../pages/styles.module.css';
 export default function Project({imageUrl, title, description}) {
     const imgUrl = useBaseUrl(imageUrl);
     return (
-        <div className={classnames('text--center col col--4', styles.feature)}>
+        <div className={classnames('text--center col col--4 padding', styles.feature)}>
         {imgUrl && (
             <div>
             <img className={styles.featureImage} src={imgUrl} alt={title} />
