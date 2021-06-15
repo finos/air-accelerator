@@ -37,7 +37,17 @@
   background-size: cover;
 }
 
-.hero__subtitle, .row h2 {
+.hero.hero--primary img {
+  margin-bottom: 30px;
+  width: 50%;
+}
+
+.hero--subtitle {
+  margin-bottom: 50px;
+  font-size: 1.5rem;
+}
+
+.row h2 {
   margin-bottom: 30px;
 }
 
@@ -51,7 +61,8 @@
 
 .row--center h2{
   color: #29327A;
-  font-size: 30px;
+  font-size: 35px;
+  font-weight: bolder;
   text-align: center;
   margin-left: 0;
   margin-right: 0;
