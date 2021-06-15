@@ -2,12 +2,13 @@
 module.exports = {
   title: 'Alliance for Innovation Regulation',
   tagline: "AIR is a global non-profit that advances a fair financial system, by promoting the use of 'responsible technology' to help consumers and small businesses build financial health.", 
-  url: 'https://blueprint.finos.org',
+  url: 'https://air-accelerator.finos.org',
   baseUrl: '/',
-  favicon: 'img/favicon/favicon-finos.ico',
-  projectName: 'software-project-blueprint',
+  favicon: 'img/favicon/favicon-air.ico',
+  projectName: 'air-accelerator',
   organizationName: 'finos',
   scripts: ['https://buttons.github.io/buttons.js'],
+  stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
 
   // TODO - find a place for these
   // ogImage: 'img/undraw_online.svg',
