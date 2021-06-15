@@ -1,13 +1,14 @@
 // Docs at https://v2.docusaurus.io/docs/configuration
 module.exports = {
-  title: 'Software Project Blueprint',
-  tagline: 'Delivering Docusaurus microsites for the Fintech Open Source Foundation',
-  url: 'https://blueprint.finos.org',
+  title: 'Alliance for Innovation Regulation',
+  tagline: "AIR is a global non-profit that advances a fair financial system, by promoting the use of 'responsible technology' to help consumers and small businesses build financial health.", 
+  url: 'https://air-accelerator.finos.org',
   baseUrl: '/',
-  favicon: 'img/favicon/favicon-finos.ico',
-  projectName: 'software-project-blueprint',
+  favicon: 'img/favicon/favicon-air.ico',
+  projectName: 'air-accelerator',
   organizationName: 'finos',
   scripts: ['https://buttons.github.io/buttons.js'],
+  stylesheets: ['https://fonts.googleapis.com/css?family=Overpass:400,400i,700'],
 
   // TODO - find a place for these
   // ogImage: 'img/undraw_online.svg',
@@ -16,30 +17,27 @@ module.exports = {
 
   themeConfig: {
     navbar: {
-      title: 'Software Project Blueprint',
+      title: 'Alliance for Innovation Regulation',
       logo: {
-        alt: 'FINOS Logo',
-        src: 'img/favicon/favicon-finos.ico',
+        alt: 'AIR Logo',
+        src: 'img/favicon/favicon-air.ico',
       },
       items: [
         {to: 'docs/what-is-odp', label: 'Docs', position: 'right'},
-        {to: 'docs/what-is-odp', label: 'Roadmap', position: 'right'},
-        {to: 'docs/what-is-odp', label: 'Team', position: 'right'},
         {
-          href: 'https://github.com/finos/software-project-blueprint',
+          href: 'https://github.com/finos/open-regtech/',
           label: 'GitHub',
           position: 'right',
         }
       ],
     },
     footer: {
-      copyright: `Copyright © 2020 - Software Project Blueprint - FINOS - The Fintech Open Source Foundation`,
+      copyright: `Copyright © 2021 - AIR - FINOS - The Fintech Open Source Foundation`,
       logo: {
         alt: 'FINOS Logo',
         src: 'img/favicon/favicon-finos.ico',
         href: 'https://finos.org'
       },
-      style: 'dark',
       links: [
         {
           title: 'FINOS Initiatives',

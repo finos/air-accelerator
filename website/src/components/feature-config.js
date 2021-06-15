@@ -2,39 +2,70 @@ import React from 'react';
 
 export const features = [
     {
-        title: <>Open Source Project Collaboration</>,
-        imageUrl: '/img/intro/Collaboration.svg',
+        title: <>Cryptocurrency/Child Protection</>,
+        imageUrl: '/img/intro/AIR_Icon.png',
         description: (
             <>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a nunc quis ligula venenatis maximus ac hendrerit urna. In diam enim, facilisis vitae mattis et, mattis non magna. Nullam condimentum in dui nec molestie. Nunc faucibus, erat sit amet tincidunt egestas, est enim rutrum massa, non sagittis est tortor a diam. Duis rhoncus interdum dolor eget posuere. Vestibulum aliquam vitae augue commodo pretium. Curabitur vel eros velit. Cras nisl ex, commodo eget massa vel, iaculis sodales nunc.
+            How to use the traceability of crypto to limit distribution of child sexual abuse material (CSAM).
             </>
         ),
+        about: {
+            title: <>Read more about the project</>,
+            link: ''
+        },        
+        project: {
+            title: <>Visit the project on FINOS Labs</>,
+            link: 'https://github.com/finos-labs/csam-crypto'
+        },        
+        involved: {
+            title: <>Get Involved</>,
+            link: ''
+        }  
     },
     {
-        title: <>Financial Services Working Together</>,
-        imageUrl: '/img/intro/Bank.svg',
+        title: <>Women’s Economic Empowerment</>,
+        imageUrl: '/img/intro/AIR_Icon.png',
+        about: {
+            title: '',
+            link: ''
+        },
         description: (
             <>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a nunc quis ligula venenatis maximus ac hendrerit urna. In diam enim, facilisis vitae mattis et, mattis non magna. Nullam condimentum in dui nec molestie. Nunc faucibus, erat sit amet tincidunt egestas, est enim rutrum massa, non sagittis est tortor a diam. Duis rhoncus interdum dolor eget posuere. Vestibulum aliquam vitae augue commodo pretium. Curabitur vel eros velit. Cras nisl ex, commodo eget massa vel, iaculis sodales nunc.
+            Solutions to help vulnerable women attain financial independence and security.
             </>
         ),
+        about: {
+            title: <>Read more about the project</>,
+            link: ''
+        },                
+        project: {
+            title: <>Visit the project on FINOS Labs</>,
+            link: 'https://github.com/finos-labs/weets-bill-pay-it-forward'
+        },        
+        involved: {
+            title: <>Get Involved</>,
+            link: ''
+        }  
     },
     {
-        title: <>Technology Vendors Working Together</>,
-        imageUrl: '/img/intro/TechCommunication.svg',
+        title: <>NYDFS (New York Department of Financial Services) Digital Regulatory Reporting for Cryptocurrency</>,
+        imageUrl: '/img/intro/AIR_Icon.png',
         description: (
             <>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a nunc quis ligula venenatis maximus ac hendrerit urna. In diam enim, facilisis vitae mattis et, mattis non magna. Nullam condimentum in dui nec molestie. Nunc faucibus, erat sit amet tincidunt egestas, est enim rutrum massa, non sagittis est tortor a diam. Duis rhoncus interdum dolor eget posuere. Vestibulum aliquam vitae augue commodo pretium. Curabitur vel eros velit. Cras nisl ex, commodo eget massa vel, iaculis sodales nunc.
+            Digital Regulatory Reporting (DRR) will to give regulators instant access to more complete data provided by firms under their supervision.
             </>
-        )
-    },
-    {
-        title: <>Accelerating Your Open Source Delivery Pipeline</>,
-        imageUrl: '/img/intro/Success.svg',
-        description: (
-            <>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a nunc quis ligula venenatis maximus ac hendrerit urna. In diam enim, facilisis vitae mattis et, mattis non magna. Nullam condimentum in dui nec molestie. Nunc faucibus, erat sit amet tincidunt egestas, est enim rutrum massa, non sagittis est tortor a diam. Duis rhoncus interdum dolor eget posuere. Vestibulum aliquam vitae augue commodo pretium. Curabitur vel eros velit. Cras nisl ex, commodo eget massa vel, iaculis sodales nunc.
-            </>
-        )
+        ),
+        about: {
+            title: <>Read more about the project</>,
+            link: ''
+        },                
+        project: {
+            title: <>Visit the project on FINOS Labs</>,
+            link: 'https://github.com/finos-labs/nydfs-digital-regulatory-reporting'
+        },        
+        involved: {
+            title: <>Get Involved</>,
+            link: ''
+        }  
     }
 ];

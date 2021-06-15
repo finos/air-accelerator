@@ -32,6 +32,10 @@
   width: 100%;
 }
 
+.cta {
+  margin-bottom: 5px;
+}
+
 .featureImage {
   height: 100px;
   width: 100px;
@@ -61,11 +65,10 @@
 }
 
 .members {
-  padding: 74px 0;
-  background-color: #cacccc;
-  background-image: url('/img/odp-background2-gray.png');
+  background-image: linear-gradient(to bottom, rgba(163,215,212,0.2), rgba(25,182,204,0.2));
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 74px 0;
 }
 
 .projects {
