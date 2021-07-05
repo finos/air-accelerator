@@ -2,16 +2,16 @@ import React from 'react';
 
 export const features = [
     {
-        title: <>Cryptocurrency/Child Protection</>,
+        title: <>Cryptocurrency &amp; Child Protection</>,
         imageUrl: '/img/intro/AIR_Icon.png',
         description: (
             <>
-            How to use the traceability of crypto to limit distribution of child sexual abuse material (CSAM).
+            AIR hosted a TechSprint with regulators, law enforcement, industry and experts to explore how to use the traceability of crypto to limit distribution of child sexual abuse material (CSAM). The prototype tools are being further developed for use by FinCEN and law enforcement.
             </>
         ),
         about: {
-            title: <>Read more about the project</>,
-            link: ''
+            title: <>Learn more about the project</>,
+            link: 'docs/crypto-and-child-protection'
         },        
         project: {
             title: <>Visit the project on FINOS Labs</>,
@@ -19,11 +19,11 @@ export const features = [
         },        
         involved: {
             title: <>Get Involved</>,
-            link: ''
+            link: 'docs/crypto-and-child-protection#interested-in-contributing'
         }  
     },
     {
-        title: <>Women’s Economic Empowerment</>,
+        title: <>Women’s Economic Empowerment / Bill Pay It Forward</>,
         imageUrl: '/img/intro/AIR_Icon.png',
         about: {
             title: '',
@@ -31,12 +31,12 @@ export const features = [
         },
         description: (
             <>
-            Solutions to help vulnerable women attain financial independence and security.
+            In March 2021, AIR and the <a href='https://www.fca.org.uk/'>FCA</a> partnered to raise awareness for global Women’s Economic Empowerment and spur development of tech solutions to help vulnerable women achieve financial security and independence. Bill Pay It Forward is a winning solution focused on using self-declared data to "calculate" an alternative credit score.
             </>
         ),
         about: {
-            title: <>Read more about the project</>,
-            link: ''
+            title: <>Learn more about the project</>,
+            link: 'docs/bill-pay-it-forward'
         },                
         project: {
             title: <>Visit the project on FINOS Labs</>,
@@ -44,11 +44,11 @@ export const features = [
         },        
         involved: {
             title: <>Get Involved</>,
-            link: ''
+            link: 'docs/bill-pay-it-forward'
         }  
     },
     {
-        title: <>NYDFS (New York Department of Financial Services) Digital Regulatory Reporting for Cryptocurrency</>,
+        title: <>NY Department of Financial Services -  Digital Regulatory Reporting for Cryptocurrency</>,
         imageUrl: '/img/intro/AIR_Icon.png',
         description: (
             <>
@@ -56,8 +56,8 @@ export const features = [
             </>
         ),
         about: {
-            title: <>Read more about the project</>,
-            link: ''
+            title: <>Learn more about the project</>,
+            link: 'docs/ny-dfs-cryptocurrency-digital-regulatory-reporting'
         },                
         project: {
             title: <>Visit the project on FINOS Labs</>,
@@ -65,7 +65,7 @@ export const features = [
         },        
         involved: {
             title: <>Get Involved</>,
-            link: ''
+            link: 'docs/ny-dfs-cryptocurrency-digital-regulatory-reporting'
         }  
     }
 ];
