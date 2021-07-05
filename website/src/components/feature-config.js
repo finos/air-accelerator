@@ -2,7 +2,7 @@ import React from 'react';
 
 export const features = [
     {
-        title: <>Cryptocurrency &amp; /Child Protection</>,
+        title: <>Cryptocurrency &amp; Child Protection</>,
         imageUrl: '/img/intro/AIR_Icon.png',
         description: (
             <>
@@ -10,8 +10,8 @@ export const features = [
             </>
         ),
         about: {
-            title: <>Read more about the project</>,
-            link: ''
+            title: <>Learn more about the project</>,
+            link: 'docs/crypto-and-child-protection'
         },        
         project: {
             title: <>Visit the project on FINOS Labs</>,
@@ -19,7 +19,7 @@ export const features = [
         },        
         involved: {
             title: <>Get Involved</>,
-            link: ''
+            link: 'docs/crypto-and-child-protection#interested-in-contributing'
         }  
     },
     {
@@ -35,8 +35,8 @@ export const features = [
             </>
         ),
         about: {
-            title: <>Read more about the project</>,
-            link: ''
+            title: <>Learn more about the project</>,
+            link: 'docs/bill-pay-it-forward'
         },                
         project: {
             title: <>Visit the project on FINOS Labs</>,
@@ -44,7 +44,7 @@ export const features = [
         },        
         involved: {
             title: <>Get Involved</>,
-            link: ''
+            link: 'docs/bill-pay-it-forward'
         }  
     },
     {
@@ -56,8 +56,8 @@ export const features = [
             </>
         ),
         about: {
-            title: <>Read more about the project</>,
-            link: ''
+            title: <>Learn more about the project</>,
+            link: 'docs/ny-dfs-cryptocurrency-digital-regulatory-reporting'
         },                
         project: {
             title: <>Visit the project on FINOS Labs</>,
@@ -65,7 +65,7 @@ export const features = [
         },        
         involved: {
             title: <>Get Involved</>,
-            link: ''
+            link: 'docs/ny-dfs-cryptocurrency-digital-regulatory-reporting'
         }  
     }
 ];
