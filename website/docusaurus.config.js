@@ -1,6 +1,6 @@
 // Docs at https://v2.docusaurus.io/docs/configuration
 module.exports = {
-  title: 'Alliance for Innovation Regulation',
+  title: 'Alliance for Innovative Regulation',
   tagline: "The AIR Accelerator is a set of tools and resources designed to germinate and incubate technology and innovation projects aimed at driving fair finance.", 
   url: 'https://air-accelerator.finos.org',
   baseUrl: '/',
