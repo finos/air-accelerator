@@ -23,7 +23,7 @@ module.exports = {
         src: 'img/favicon/favicon-air.ico',
       },
       items: [
-        {to: 'docs/what-is-odp', label: 'Docs', position: 'right'},
+        {to: 'docs/crypto-and-child-protection', label: 'Docs', position: 'right'},
         {
           href: 'https://github.com/finos/open-regtech/',
           label: 'GitHub',
