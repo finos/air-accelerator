@@ -32,8 +32,8 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/what-is-odp')}>
-              Get Started
+              to={'https://regulationinnovation.org/'}>
+              Learn More
             </Link>
           </div>
         </div>
