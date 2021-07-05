@@ -8,11 +8,11 @@ import styles from './styles.module.css';
 
 import Project from '../components/project';
 import Feature from '../components/feature';
-import Vendor from '../components/vendor';
+import TechSprint from '../components/techsprints';
 
 import { features } from '../components/feature-config';
 import { projects } from '../components/project-config';
-import { vendors } from '../components/vendor-config';
+import { techsprints } from '../components/techsprints-config';
 
 function Home() {
   const context = useDocusaurusContext();
@@ -50,15 +50,15 @@ function Home() {
             </div>
           </section>
         )}
-        {vendors && vendors.length && (
+        {techsprints && techsprints.length && (
           <section className={styles.members}>
             <div className="container">
               <div className="row row--center">
                 <h2>Featured TechSprints</h2>
               </div>
               <div className="row">
-                {vendors.map((props, idx) => (
-                  <Vendor key={idx} {...props} />
+                {techsprints.map((props, idx) => (
+                  <TechSprint key={idx} {...props} />
                 ))}
               </div>
             </div>
