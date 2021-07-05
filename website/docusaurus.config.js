@@ -40,7 +40,37 @@ module.exports = {
       },
       links: [
         {
-          title: 'FINOS Initiatives',
+          title: 'AIR Resources',
+          items: [
+            {
+              label: 'About AIR',
+              to: 'https://regulationinnovation.org/',
+            },
+            {
+              label: 'TechSprints',
+              to: 'https://regulationinnovation.org/techsprints/',
+            },
+            {
+              label: 'WhitePapers',
+              to: 'https://regulationinnovation.org/air-whitepapers/',
+            }
+          ]
+        },
+        {
+          title: 'AIR Initiatives',
+          items: [
+            {
+              label: 'Events',
+              to: 'https://regulationinnovation.org/air-events/',
+            },
+            {
+              label: 'Podcasts',
+              to: 'https://regulationinnovation.org/barefoot-innovation-podcast/?sp=guest',
+            }
+          ]
+        },
+        {
+          title: 'About FINOS',
           items: [
             {
               label: 'FINOS Projects on GitHub',
@@ -53,41 +83,9 @@ module.exports = {
             {
               label: 'FINOS News and Events',
               to: 'https://www.finos.org/news-and-events',
-            }]
-          },
-          {
-            title: 'Quick links',
-            items: [
-            {
-              label: 'Join a Project Meeting',
-              to: 'https://github.com/finos/open-developer-platform/issues?q=label%3Ameeting+',
-            },
-            {
-            label: 'Browse Good First Issues',
-            to: 'https://github.com/finos/open-developer-platform/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22',
-            },
-            {
-              label: 'Ask a Question',
-              to: 'https://github.com/finos/open-developer-platform/issues/new?assignees=&labels=&template=Support_question.md&title=',
-            }]
-          },
-          {
-            title: 'FINOS Community',
-            items: [    
-            {
-            label: 'FINOS Community Handbook',
-            to: 'https://finosfoundation.atlassian.net/wiki/spaces/FINOS/pages/80642059/Community+Handbook',
-            },
-            {
-            label: 'FINOS Community Governance',
-            to: 'https://github.com/finos/community/tree/master/governance',
-            },
-            {
-              label: 'FINOS on LinkedIn',
-              to: 'https://www.linkedin.com/company/finosfoundation',
             }
           ]
-        }
+        },
       ]
     },
   },
