@@ -1,7 +1,7 @@
 // Docs at https://v2.docusaurus.io/docs/configuration
 module.exports = {
   title: 'Alliance for Innovation Regulation',
-  tagline: "AIR is a global non-profit that advances a fair financial system, by promoting the use of 'responsible technology' to help consumers and small businesses build financial health.", 
+  tagline: "The AIR Accelerator is a set of tools and resources designed to germinate and incubate technology and innovation projects aimed at driving fair finance.", 
   url: 'https://air-accelerator.finos.org',
   baseUrl: '/',
   favicon: 'img/favicon/favicon-air.ico',
