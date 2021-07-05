@@ -23,7 +23,7 @@ export const features = [
         }  
     },
     {
-        title: <>Women’s Economic Empowerment</>,
+        title: <>Women’s Economic Empowerment / Bill Pay It Forward</>,
         imageUrl: '/img/intro/AIR_Icon.png',
         about: {
             title: '',
@@ -31,7 +31,7 @@ export const features = [
         },
         description: (
             <>
-            Solutions to help vulnerable women attain financial independence and security.
+            In March 2021, AIR and the <a href='https://www.fca.org.uk/'>FCA</a> partnered to raise awareness for global Women’s Economic Empowerment and spur development of tech solutions to help vulnerable women achieve financial security and independence. Bill Pay It Forward is a winning solution focused on using self-declared data to "calculate" an alternative credit score.
             </>
         ),
         about: {
@@ -48,7 +48,7 @@ export const features = [
         }  
     },
     {
-        title: <>NYDFS (New York Department of Financial Services) Digital Regulatory Reporting for Cryptocurrency</>,
+        title: <>NY Department of Financial Services -  Digital Regulatory Reporting for Cryptocurrency</>,
         imageUrl: '/img/intro/AIR_Icon.png',
         description: (
             <>
