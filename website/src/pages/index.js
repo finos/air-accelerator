@@ -54,7 +54,7 @@ function Home() {
           <section className={styles.members}>
             <div className="container">
               <div className="row row--center">
-                <h2>Community Participants</h2>
+                <h2>Featured TechSprints</h2>
               </div>
               <div className="row">
                 {vendors.map((props, idx) => (
