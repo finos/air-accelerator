@@ -17,7 +17,7 @@ module.exports = {
 
   themeConfig: {
     navbar: {
-      title: 'Alliance for Innovation Regulation',
+      title: 'Alliance for Innovative Regulation',
       logo: {
         alt: 'AIR Logo',
         src: 'img/favicon/favicon-air.ico',
