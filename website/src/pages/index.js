@@ -64,20 +64,6 @@ function Home() {
             </div>
           </section>
         )}
-        {projects && projects.length && (
-          <section className={styles.projects}>
-            <div className="container">
-              <div className="row row--center">
-                <h2>Used by FINOS Projects</h2>
-              </div>
-              <div className="row">
-                {projects.map((props, idx) => (
-                  <Project key={idx} {...props} />
-                ))}
-              </div>
-            </div>
-          </section>
-        )}
       </main>
     </Layout>
   );
