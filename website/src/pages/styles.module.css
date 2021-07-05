@@ -32,8 +32,14 @@
   width: 100%;
 }
 
-.cta {
-  margin-bottom: 5px;
+.featureCTA{
+  text-align: center;
+  color: var(--ifm-link-color);
+}
+
+.featureCTA ul{
+  display: inline-block;
+  padding: 0 10% 0 10%;
 }
 
 .featureImage {
