@@ -3,17 +3,21 @@ import classnames from 'classnames';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from '../pages/styles.module.css';
 
-export default function Vendor({imageUrl, title, description}) {
+export default function TechSprint({imageUrl, title, when, description}) {
     const imgUrl = useBaseUrl(imageUrl);
     return (
         <div className={classnames('text--center col col--4 padding', styles.feature)}>
-        {imgUrl && (
-            <div>
-            <img className={styles.featureImage} src={imgUrl} alt={title} />
+            {imgUrl && (
+                <div>
+                <img className={styles.featureImage} src={imgUrl} alt={title} />
+                </div>
+            )}
+            <h3>{title}</h3>
+            <div className={classnames(styles.techsprintCTA)}>
+                <ul>
+                    <li>{description}</li>
+                </ul>
             </div>
-        )}
-        <h3>{title}</h3>
-        <p>{description}</p>
         </div>
     );
 }

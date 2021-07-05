@@ -32,14 +32,40 @@
   width: 100%;
 }
 
+.techsprintCTA{
+  text-align: center;
+}
+
+.techsprintCTA ul{
+  display: inline-block;
+  padding: 0 20% 0 20%;
+  list-style: none;
+}
+
+.techsprintCTA li::before{
+  content: "\2022";
+  display: inline-block;
+  width: 2em;
+  margin-left: -2em;
+  color: var(--ifm-link-color);
+}
+
 .featureCTA{
   text-align: center;
-  color: var(--ifm-link-color);
 }
 
 .featureCTA ul{
   display: inline-block;
   padding: 0 10% 0 10%;
+  list-style: none;
+}
+
+.featureCTA li::before{
+  content: "\2022";
+  display: inline-block;
+  width: 2em;
+  margin-left: -2em;
+  color: var(--ifm-link-color);
 }
 
 .featureImage {
