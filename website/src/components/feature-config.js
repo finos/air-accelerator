@@ -2,11 +2,11 @@ import React from 'react';
 
 export const features = [
     {
-        title: <>Cryptocurrency/Child Protection</>,
+        title: <>Cryptocurrency &amp; /Child Protection</>,
         imageUrl: '/img/intro/AIR_Icon.png',
         description: (
             <>
-            How to use the traceability of crypto to limit distribution of child sexual abuse material (CSAM).
+            AIR hosted a TechSprint with regulators, law enforcement, industry and experts to explore how to use the traceability of crypto to limit distribution of child sexual abuse material (CSAM). The prototype tools are being further developed for use by FinCEN and law enforcement.
             </>
         ),
         about: {
