@@ -1,20 +1,58 @@
-<img align="right" width="40%" src="https://www.finos.org/hubfs/FINOS/finos-logo/FINOS_Icon_Wordmark_Name_RGB_horizontal.png">
+<img align="right" width="40%" src="https://regulationinnovation.org/wp-content/uploads/2020/03/logo.png">
 
-# FINOS Software Project Blueprint
+# AIR Accelerator
 
-Project blueprint is a GitHub repository template for all [Fintech Open Source Foundation (FINOS)](https://www.finos.org/) hosted GitHub repositories, contributed and maintained by FINOS as part of the [Open Developer Platform (ODP)](https://odp.finos.org) initiative.
+The AIR Accelerator is a set of tools and resources designed to germinate and incubate technology and innovation projects aimed at driving fair finance.
 
-## How to use this blueprint
+Learn more about the [Alliance for Innovative Regulation](https://regulationinnovation.org/).
 
-Please follow https://odp.finos.org/docs/project-collaboration/#finos-project-blueprint
+## AIR Accelerator TechSprints
 
-## Governance
-This blueprint implements https://github.com/finos/community/tree/master/governance#open-source-software-projects
+### Cryptocurrency & Child Protection
 
-## License
+AIR hosted a TechSprint with regulators, law enforcement, industry and experts to explore how to use the traceability of crypto to limit distribution of child sexual abuse material (CSAM). The prototype tools are being further developed for use by FinCEN and law enforcement.
 
-Copyright 2019 Fintech Open Source Foundation
+- Learn more about the project
+- Visit the project on FINOS Labs
+- Get Involved
 
-Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+### Women’s Economic Empowerment / Bill Pay It Forward
+In March 2021, AIR and the FCA partnered to raise awareness for global Women’s Economic Empowerment and spur development of tech solutions to help vulnerable women achieve financial security and independence. Bill Pay It Forward is a winning solution focused on using self-declared data to "calculate" an alternative credit score.
 
-SPDX-License-Identifier: [Apache-2.0](https://spdx.org/licenses/Apache-2.0)
+- Learn more about the project
+- Visit the project on FINOS Labs
+- Get Involved
+
+### NY Department of Financial Services - Digital Regulatory Reporting for Cryptocurrency
+Digital Regulatory Reporting (DRR) will to give regulators instant access to more complete data provided by firms under their supervision.
+
+- Learn more about the project
+- Visit the project on FINOS Labs
+- Get Involved
+
+## Featured TechSprints
+
+### National Credit Regulator (NCR) of South Africa: Regulatory Reporting TechSprint
+
+- Keep an eye out for the upcoming TechSprint
+
+### Women's Economic Empowerment TechSprint
+
+- [Read more about the recent TechSprint](https://regulationinnovation.org/womens_empowerment_sprint/)
+
+### NY Department of Financial Services: Digital Regulatory Reporting TechSprint
+
+- [Read more about the recent TechSprint](https://regulationinnovation.org/dfs-techsprint/)
+
+
+## AIR Resources
+
+- [About AIR](https://regulationinnovation.org/)
+- [TechSprints](https://regulationinnovation.org/techsprints/)
+- [WhitePapers](https://regulationinnovation.org/air-whitepapers/)
+
+## AIR Initiatives
+
+- [Events](https://regulationinnovation.org/air-events/)
+- [Podcasts](https://regulationinnovation.org/barefoot-innovation-podcast/?sp=guest)
+
