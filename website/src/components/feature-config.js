@@ -38,20 +38,20 @@ export const features = [
             link: 'docs/bill-pay-it-forward'
         },                
         project: {
-            title: <>Visit the project on FINOS Labs</>,
-            link: 'https://github.com/finos-labs/weets-bill-pay-it-forward'
+            title: '',
+            link: ''
         },        
         involved: {
-            title: <>Get Involved</>,
-            link: 'docs/bill-pay-it-forward'
+            title: '',
+            link: ''
         }  
     },
     {
-        title: <>NY Department of Financial Services -  Digital Regulatory Reporting for Cryptocurrency</>,
+        title: <>Digital Regulatory Reporting</>,
         imageUrl: '/img/intro/AIR_Icon.png',
         description: (
             <>
-            Digital Regulatory Reporting (DRR) will to give regulators instant access to more complete data provided by firms under their supervision.
+            Establish a new digital reporting framework to give regulators real time  access with complete data providing increased visibility – critical in times of financial crisis.
             </>
         ),
         about: {
@@ -59,12 +59,12 @@ export const features = [
             link: 'docs/ny-dfs-cryptocurrency-digital-regulatory-reporting'
         },                
         project: {
-            title: <>Visit the project on FINOS Labs</>,
-            link: 'https://github.com/finos-labs/nydfs-digital-regulatory-reporting'
+            title: '',
+            link: ''
         },        
         involved: {
-            title: <>Get Involved</>,
-            link: 'docs/ny-dfs-cryptocurrency-digital-regulatory-reporting'
+            title: '',
+            link: ''
         }  
     }
 ];
