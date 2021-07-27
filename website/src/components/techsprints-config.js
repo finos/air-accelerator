@@ -6,7 +6,7 @@ export const techsprints = [
         imageUrl: '/img/intro/AIR_Icon.png',
         when: <>Upcoming</> ,
         description: (
-            <>Keep an eye out for the upcoming TechSprint</>
+            <><span>Keep an eye out for the upcoming TechSprint</span></>
         ),
     },
     {
