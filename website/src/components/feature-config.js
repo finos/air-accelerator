@@ -29,8 +29,8 @@ export const features = [
         },
         description: (
             <>
-            <p>Creation of a new Financial Stability Score to help identify and support vulnerable women emerging from the COVID financial crisis achieve financial security and independence.</p>
-            <p>In March 2021, AIR and the <a href='https://www.fca.org.uk/'>FCA</a> partnered to raise awareness for global Women’s Economic Empowerment and spur development of tech solutions to help vulnerable women achieve financial security and independence. Bill Pay It Forward is a winning solution focused on using self-declared data to “calculate” an alternative credit score.</p>
+            Creation of a new Financial Stability Score to help identify and support vulnerable women emerging from the COVID financial crisis achieve financial security and independence.<br/><br/>
+            In March 2021, AIR and the <a href='https://www.fca.org.uk/'>FCA</a> partnered to raise awareness for global Women’s Economic Empowerment and spur development of tech solutions to help vulnerable women achieve financial security and independence. Bill Pay It Forward is a winning solution focused on using self-declared data to “calculate” an alternative credit score.
             </>
         ),
         about: {

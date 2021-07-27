@@ -5,13 +5,9 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
-
-import Project from '../components/project';
 import Feature from '../components/feature';
 import TechSprint from '../components/techsprints';
-
 import { features } from '../components/feature-config';
-import { projects } from '../components/project-config';
 import { techsprints } from '../components/techsprints-config';
 
 function Home() {
@@ -24,6 +20,7 @@ function Home() {
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 style={{visibility: 'hidden'}} className="hero__title">{siteConfig.title}</h1>
+          <img src={useBaseUrl('/img/air-logo-reverse-rbg.png')}/>
           <img src={useBaseUrl('/img/air-logo-reverse-rbg.png')}/>
           <p className={classnames('hero--subtitle')}>{siteConfig.tagline}</p>
           <div className={styles.buttons}>
