@@ -5,13 +5,9 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
-
-import Project from '../components/project';
 import Feature from '../components/feature';
 import TechSprint from '../components/techsprints';
-
 import { features } from '../components/feature-config';
-import { projects } from '../components/project-config';
 import { techsprints } from '../components/techsprints-config';
 
 function Home() {

@@ -1,7 +1,7 @@
 // Docs at https://v2.docusaurus.io/docs/configuration
 module.exports = {
-  title: 'Alliance for Innovative Regulation',
-  tagline: "The AIR Accelerator is a set of tools and resources designed to germinate and incubate technology and innovation projects aimed at driving fair finance.", 
+  title: 'Alliance for Innovative Regulation, Powered by FINOS',
+  tagline: "The AIR Accelerator incubates technology and innovation projects.", 
   url: 'https://air-accelerator.finos.org',
   baseUrl: '/',
   favicon: 'img/favicon/favicon-air.ico',
@@ -17,7 +17,7 @@ module.exports = {
 
   themeConfig: {
     navbar: {
-      title: 'Alliance for Innovative Regulation',
+      title: 'Alliance for Innovative Regulation, Powered by FINOS',
       logo: {
         alt: 'AIR Logo',
         src: 'img/favicon/favicon-air.ico',
