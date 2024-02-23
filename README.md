@@ -1,3 +1,7 @@
+[![FINOS - Archived](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-archived.svg)](https://community.finos.org/docs/governance/Software-Projects/stages/archived)
+
+_This project is archived, which means that it's in read-only state; you can download and use this code, but please be aware that it may be buggy and may also contain security vulnerabilities. If you're interested to restore development activities on this project, please email help@finos.org_
+
 <img align="right" width="40%" src="https://regulationinnovation.org/wp-content/uploads/2020/03/logo.png">
 
 # AIR Accelerator
